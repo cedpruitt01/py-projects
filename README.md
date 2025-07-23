@@ -1,4 +1,4 @@
-This repository contains hands-on Python projects I've built as part of my cybersecurity learning journey.
+This repository contains hands-on Python projects I've built as part of my Python learning journey.
 
 ## 🔐 Projects
 
