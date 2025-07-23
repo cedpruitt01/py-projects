@@ -6,7 +6,7 @@ This repository contains hands-on Python projects I've built as part of my Pytho
 - Checks if a password meets complexity requirements
 - Validates length, uppercase/lowercase, digits, and symbols
 
-### 2. Threaded Port Scanner
+### 2. Threaded Port Scanner (Loop.py)
 - Scans target IP addresses across user-defined port ranges
 - Uses Python's `socket` and `threading` for fast recon
 - Includes scan timing and input validation
