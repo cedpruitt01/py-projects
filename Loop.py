@@ -57,7 +57,7 @@ if not target:
             sock.settimeout(0.3)
             result = sock.connect_ex((target, port))
             if result == 0:
-                print(f"Port {port} is OPEN ✅")
+                print(f"Port {port} is OPEN")
             sock.close()
         except Exception as e:
             pass  # Optional: print or log the error if you want
